@@ -15,9 +15,11 @@ SKILLS:
 PROJECT:
 
 1) SpaceWar
+
     A pygame based spaceship fight game with sounds and moving background.
     
 2) Portfolio App
+
     My Portfolio App made with basic flutter that I knew at that point of time.
     
 HOBBIES:
