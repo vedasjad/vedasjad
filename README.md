@@ -22,5 +22,3 @@ I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce
 [LinkedIn](https://www.linkedin.com/in/vedasjad) · [pub.dev](https://pub.dev/packages/flutter_dev_setup) · [LeetCode](https://leetcode.com/vedasjad/) · [Codeforces](https://codeforces.com/profile/vedasjad)
 
 I still do competitive programming when sleep allows.
-
-<img src="https://komarev.com/ghpvc/?username=vedasjad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
