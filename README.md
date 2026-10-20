@@ -1,17 +1,8 @@
 ## Hi, I'm Asjad 👋
 
-I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce startup, based in Bengaluru. I build features end to end: a multi-flavor Flutter app, the Node.js/PostgreSQL backend behind it, the Next.js admin panel our ops team runs on, and the infra and tooling around all three.
+I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce startup in Bengaluru. I build features end to end across our Flutter app, Node.js/PostgreSQL backend and Next.js admin panel, and ship weekly to ~45k monthly users across 5 cities ([rider app](https://play.google.com/store/apps/details?id=com.arohana.myrick.rider)).
 
-### At Myrik (Nov 2024 – present)
-
-- Ship weekly to ~45k monthly users across 5 cities, with 900+ merged PRs across the app, API and admin panel.
-- Moved the app to server-driven UI on backward-compatible API contracts, so features launch or switch off without an app release.
-- Built the batch notification pipeline (Pub/Sub, Cloud Functions, Elasticsearch) that reaches 100k+ devices in under a minute.
-- Shipped realtime order tracking on Firestore and Pub/Sub across the app, API and ops board.
-- Built Curlew, a self-hosted code-push system for Flutter: signed ~85 KB patches, applied in seconds, with automatic rollback after crashed boots.
-- Set up observability and CI: Sentry, Crashlytics, Grafana/Loki, Mixpanel, and GitHub Actions to Play.
-
-[Rider app on Google Play](https://play.google.com/store/apps/details?id=com.arohana.myrick.rider)
+Recent work: server-driven UI so features launch without an app release, a notification pipeline that reaches 100k+ devices in under a minute, and Curlew, a self-hosted code-push system for Flutter.
 
 ### Things I've built
 
