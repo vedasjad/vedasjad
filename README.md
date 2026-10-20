@@ -7,7 +7,7 @@ I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce
 | Project | What it does | Stack |
 |---|---|---|
 | [flutter_dev_setup](https://github.com/vedasjad/flutter_dev_setup) · [pub.dev](https://pub.dev/packages/flutter_dev_setup) | Finds dev servers on your LAN and switches a Flutter app's API base URL at runtime. 160/160 pub points, used in production at Myrik. | Dart, Flutter |
-| [emulator-panel](https://github.com/vedasjad/emulator-panel) | VS Code extension that runs Android emulators inside the editor and keeps the emulator's native extended controls. Also mirrors phones and manages iOS simulators. | TypeScript |
+| [emulator-panel](https://github.com/vedasjad/emulator-panel) · [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=vedasjad.emulator-panel) | VS Code extension that runs Android emulators inside the editor and keeps the emulator's native extended controls. Also mirrors phones and manages iOS simulators. | TypeScript |
 | [Collabshala](https://collabshala.vercel.app) | Campus collaboration platform. Go + MySQL REST API (JWT, sqlc, OpenAPI, Docker, CI smoke tests) with a Next.js client. | Go, MySQL, Next.js |
 | [MunchMate](https://github.com/vedasjad/MunchMate) | Canteen ordering app with QR pickup and a Flutter web admin panel, realtime on Firebase. | Flutter, Firebase |
 
