@@ -2,8 +2,6 @@
 
 I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce startup in Bengaluru. I build features end to end across our Flutter apps, Node.js/PostgreSQL backend and Next.js admin panel, and manage all of Myrik's apps on [Google Play](https://play.google.com/store/apps/developer?id=Myrik%28Arohana+Technologies+Private+Limited%29) and the [App Store](https://apps.apple.com/in/developer/arohana-technologies-private-limited/id1780792829), shipping weekly to ~45k monthly users across 5 cities.
 
-Recent work: server-driven UI so features launch without an app release, a notification pipeline that reaches 100k+ devices in under a minute, and Curlew, a self-hosted code-push system for Flutter.
-
 ### Things I've built
 
 | Project | What it does | Stack |
