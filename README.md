@@ -1,21 +1,37 @@
-<h1 align="center">Hi 👋, I'm Asjad</h1>
-<h3 align="center">Mobile App dev and CP enthusiast : because sleep is overrated</h3>
+## Hi, I'm Asjad 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedasjad&label=Profile%20views&color=0e75b6&style=flat" alt="vedasjad" /> </p>
+I'm a product engineer at [Myrik](https://myrik.in), a ride-hailing and commerce startup, based in Bengaluru. I build features end to end: a multi-flavor Flutter app, the Node.js/PostgreSQL backend behind it, the Next.js admin panel our ops team runs on, and the infra and tooling around all three.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedasjad" alt="vedasjad" /></a> </p>
+### At Myrik (Nov 2024 – present)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://instagram.com/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vedasjad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedasjad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vedasjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedasjad" height="30" width="40" /></a>
+- Ship weekly to ~45k monthly users across 5 cities, with 900+ merged PRs across the app, API and admin panel.
+- Moved the app to server-driven UI on backward-compatible API contracts, so features launch or switch off without an app release.
+- Built the batch notification pipeline (Pub/Sub, Cloud Functions, Elasticsearch) that reaches 100k+ devices in under a minute.
+- Shipped realtime order tracking on Firestore and Pub/Sub across the app, API and ops board.
+- Built Curlew, a self-hosted code-push system for Flutter: signed ~85 KB patches, applied in seconds, with automatic rollback after crashed boots.
+- Set up observability and CI: Sentry, Crashlytics, Grafana/Loki, Mixpanel, and GitHub Actions to Play.
+
+[Rider app on Google Play](https://play.google.com/store/apps/details?id=com.arohana.myrick.rider)
+
+### Things I've built
+
+| Project | What it does | Stack |
+|---|---|---|
+| [flutter_dev_setup](https://github.com/vedasjad/flutter_dev_setup) · [pub.dev](https://pub.dev/packages/flutter_dev_setup) | Finds dev servers on your LAN and switches a Flutter app's API base URL at runtime. 160/160 pub points, used in production at Myrik. | Dart, Flutter |
+| [emulator-panel](https://github.com/vedasjad/emulator-panel) | VS Code extension that runs Android emulators inside the editor and keeps the emulator's native extended controls. Also mirrors phones and manages iOS simulators. | TypeScript |
+| [Collabshala](https://collabshala.vercel.app) | Campus collaboration platform. Go + MySQL REST API (JWT, sqlc, OpenAPI, Docker, CI smoke tests) with a Next.js client. | Go, MySQL, Next.js |
+| [MunchMate](https://github.com/vedasjad/MunchMate) | Canteen ordering app with QR pickup and a Flutter web admin panel, realtime on Firebase. | Flutter, Firebase |
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nodejs,express,go,ts,nextjs,postgres,mysql,firebase,gcp,elasticsearch,docker,githubactions,grafana&perline=8" alt="Flutter, Dart, Kotlin, Node.js, Express, Go, TypeScript, Next.js, PostgreSQL, MySQL, Firebase, GCP, Elasticsearch, Docker, GitHub Actions, Grafana" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/vedasjad) · [pub.dev](https://pub.dev/packages/flutter_dev_setup) · [LeetCode](https://leetcode.com/vedasjad/) · [Codeforces](https://codeforces.com/profile/vedasjad)
+
+I still do competitive programming when sleep allows.
+
+<img src="https://komarev.com/ghpvc/?username=vedasjad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
